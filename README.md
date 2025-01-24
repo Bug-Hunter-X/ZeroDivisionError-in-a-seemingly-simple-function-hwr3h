@@ -1,0 +1,1 @@
+This repository demonstrates a subtle error in Python: the ZeroDivisionError.  The code appears straightforward, but it has a potential for division by zero that could cause unexpected crashes or inaccurate results. The solution demonstrates how to address this with error handling.
